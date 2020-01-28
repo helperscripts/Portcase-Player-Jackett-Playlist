@@ -1,0 +1,8 @@
+{
+    "name": "ab/pls",
+    "type": "project",
+    "require": {
+        "debril/feed-io": "^4.3",
+        "spatie/array-to-xml": "^2.11"
+    }
+}
